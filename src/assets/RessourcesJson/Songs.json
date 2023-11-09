@@ -1,0 +1,1265 @@
+[
+    {
+        "idChanson" : 1,
+        "titre" : "How Does It Feel",
+        "idCategorie" : 1,
+        "nomArtiste" : "Chlöe, Chris Brown",
+        "photoArtiste" :"assets/images/Image artistes rnb/image1.jpeg",
+        "score" :4,
+        "est_favorie" :true,
+        "nomFichier" :"Chloechris.mp3",
+       "album": {
+            "idAlbum" :1,
+            "nomAlbum" : "In Pieces",
+            "imageAlbum" :"assets/images/images Rnb/image1.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 2,
+        "titre" : " Sensational",
+        "idCategorie" : 1,
+        "nomArtiste" : "Chris Brown ft. Davido, Lojay",
+        "photoArtiste" :"assets/images/Image artistes rnb/image2.jpeg",
+        "score" :7,
+        "est_favorie" :false,
+        "nomFichier" :"Sensational.mp3",
+       "album": {
+            "idAlbum" :2,
+            "nomAlbum" : "Heartbreak On A Full Moon",
+            "imageAlbum" :"assets/images/images Rnb/image2.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 3,
+        "titre" : "This Is",
+        "idCategorie" : 1,
+        "nomArtiste" : "Ella Mai",
+        "photoArtiste" :"assets/images/Image artistes rnb/image3.jpeg",
+        "score" :7,
+        "est_favorie" :false,
+        "nomFichier" :"thisis.mp3",
+       "album": {
+            "idAlbum" :3,
+            "nomAlbum" : "time",
+            "imageAlbum" :"assets/images/images Rnb/image3.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 4,
+        "titre" : "Angel",
+        "idCategorie" : 1,
+        "nomArtiste" : " Halle",
+        "photoArtiste" :"assets/images/Image artistes rnb/image4.jpeg",
+        "score" :5,
+        "est_favorie" :false,
+        "nomFichier" :"angel.mp3",
+       "album": {
+            "idAlbum" :4,
+            "nomAlbum" : "Angel",
+            "imageAlbum" :"assets/images/images Rnb/image4.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 5,
+        "titre" : "People",
+        "idCategorie" : 1,
+        "nomArtiste" : " Libianca",
+        "photoArtiste" :"assets/images/Image artistes rnb/image5.jpeg",
+        "score" :7,
+        "est_favorie" :true,
+        "nomFichier" :"labianca.mp3",
+       "album": {
+            "idAlbum" :5,
+            "nomAlbum" : "People",
+            "imageAlbum" :"assets/images/images Rnb/image5.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 6,
+        "titre" : "BIRTHDAY",
+        "idCategorie" : 1,
+        "nomArtiste" : "Saweetie, YG, & Tyga",
+        "photoArtiste" :"assets/images/Image artistes rnb/image6.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"birthday.mp3",
+       "album": {
+            "idAlbum" :6,
+            "nomAlbum" : "Pretty bitch Music",
+            "imageAlbum" :"assets/images/images Rnb/image6.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 7,
+        "titre" : "Me & U",
+        "idCategorie" : 1,
+        "nomArtiste" : "Tems",
+        "photoArtiste" :"assets/images/Image artistes rnb/image7.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Tems - Me & U (Official Video) (128 kbps).mp3",
+       "album": {
+            "idAlbum" :7,
+            "nomAlbum" : "For broken ears",
+            "imageAlbum" :"assets/images/images Rnb/image7.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 8,
+        "titre" : "K-POP",
+        "idCategorie" : 1,
+        "nomArtiste" : "Travis Scott, Bad Bunny, The Weekend",
+        "photoArtiste" :"assets/images/Image artistes rnb/image8.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"weekend.mp3",
+       "album": {
+            "idAlbum" :8,
+            "nomAlbum" : "Utopia",
+            "imageAlbum" :"assets/images/images Rnb/image8.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 9,
+        "titre" : "Water",
+        "idCategorie" : 1,
+        "nomArtiste" : "Tyla",
+        "photoArtiste" :"assets/images/Image artistes rnb/image9.jpeg",
+        "score" :7,
+        "est_favorie" :true,
+        "nomFichier" :"water.mp3",
+       "album": {
+            "idAlbum" :9,
+            "nomAlbum" : "Water",
+            "imageAlbum" :"assets/images/images Rnb/image9.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 10,
+        "titre" : "Party Girls",
+        "idCategorie" : 1,
+        "nomArtiste" : "Victoria Monét ft. Buju Banton",
+        "photoArtiste" :"assets/images/Image artistes rnb/image10.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"partygirsls.mp3",
+       "album": {
+            "idAlbum" :10,
+            "nomAlbum" : "Party Girls",
+            "imageAlbum" :"assets/images/images Rnb/image10.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 11,
+        "titre" : "Call me every where",
+        "idCategorie" : 1,
+        "nomArtiste" : "Chris Brown",
+        "photoArtiste" :"assets/images/Image artistes rnb/image11.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"callmeeverywhere.mp3",
+       "album": {
+            "idAlbum" :11,
+            "nomAlbum" : "Breezy",
+            "imageAlbum" :"assets/images/images Rnb/image11.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 12,
+        "titre" : "Lift Me Up",
+        "idCategorie" : 1,
+        "nomArtiste" : "Rihanna",
+        "photoArtiste" :"assets/images/Image artistes rnb/image12.jpeg",
+        "score" :10,
+        "est_favorie" :true,
+        "nomFichier" :"liftmeup.mp3",
+       "album": {
+            "idAlbum" :12,
+            "nomAlbum" : "A girl like me",
+            "imageAlbum" :"assets/images/images Rnb/image12.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 13,
+        "titre" : " Favorite Song",
+        "idCategorie" : 1,
+        "nomArtiste" : "Rihanna",
+        "photoArtiste" :"assets/images/Image artistes rnb/image12.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"favorite.mp3",
+       "album": {
+            "idAlbum" :13,
+            "nomAlbum" : "grave dweller",
+            "imageAlbum" :"assets/images/images Rnb/image13.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 14,
+        "titre" : "Take A Bow ",
+        "idCategorie" : 1,
+        "nomArtiste" : "Rihanna",
+        "photoArtiste" :"assets/images/Image artistes rnb/image13.jpeg",
+        "score" :10,
+        "est_favorie" :true,
+        "nomFichier" :"X2Download.app - Rihanna - Take A Bow (128 kbps).mp3",
+       "album": {
+            "idAlbum" :14,
+            "nomAlbum" : "grave dweller",
+            "imageAlbum" :"assets/images/images Rnb/image13.jpeg"
+        }
+       
+   },
+    {
+        "idChanson" : 15,
+        "titre" : "Oh!",
+        "idCategorie" : 1,
+        "nomArtiste" : "Ciara feat Ludaris",
+        "photoArtiste" :"assets/images/images Rnb/imageCiara.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"Hr4wz4-27PY_160.mp3",
+       "album": {
+            "idAlbum" :15,
+            "nomAlbum" : "ciara goodies",
+            "imageAlbum" :"assets/images/images Rnb/albumciara.jpeg"
+        }
+       
+   },
+   
+    {
+        
+        "idChanson" : 16,
+        "titre" : "Marie Lou",
+        "idCategorie" : 2,
+        "nomArtiste" : "Marie lou",
+        "photoArtiste" :"assets/image artistes/image1.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - AL TCHENGO  Marie lou (128 kbps).mp3",
+       "album": {
+            "idAlbum" :16,
+            "nomAlbum" : "Marielou",
+            "imageAlbum" :"assets/image du benskin/image1.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 17,
+        "titre" : "Bend Skin",
+        "idCategorie" : 2,
+        "nomArtiste" : "André  marie Tala",
+        "photoArtiste" :"assets/image artistes/image2.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - André - Marie Tala _ Ben Skin (128 kbps)",
+       "album": {
+            "idAlbum" :17,
+            "nomAlbum" : "The best of vol 2",
+            "imageAlbum" :"assets/image du benskin/image2.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 18,
+        "titre" : "Bend Sikin",
+        "idCategorie" : 2,
+        "nomArtiste" : "André  marie Tala",
+        "photoArtiste" :"assets/image artistes/image2.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"bensikin.mp3",
+       "album": {
+            "idAlbum" :18,
+            "nomAlbum" : "The best of vol 1",
+            "imageAlbum" :"assets/image du benskin/image2.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 19,
+        "titre" : "the Under the Volcano Festival",
+        "idCategorie" : 2,
+        "nomArtiste" : "Ben Skin Dancers ",
+        "photoArtiste" :"assets/image artistes/image3.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"africadanse.mp3",
+       "album": {
+            "idAlbum" :19,
+            "nomAlbum" : "Volcano song ",
+            "imageAlbum" :"assets/image du benskin/image3.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 20,
+        "titre" : "Faut faire un geste",
+        "idCategorie" : 2,
+        "nomArtiste" : "Bissi Mag ",
+        "photoArtiste" :"assets/image artistes/image5.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"fautfaireungeste.mp3",
+       "album": {
+            "idAlbum" :20,
+            "nomAlbum" : "Muto ",
+            "imageAlbum" :"assets/image du benskin/image5.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 21,
+        "titre" : "Simo",
+        "idCategorie" : 2,
+        "nomArtiste" : "Bissi Mag ",
+        "photoArtiste" :"assets/image artistes/image6.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"simo.mp3",
+       "album": {
+            "idAlbum" :21,
+            "nomAlbum" : "Muto ",
+            "imageAlbum" :"assets/image du benskin/image6.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 22,
+        "titre" : "Simo",
+        "idCategorie" : 2,
+        "nomArtiste" : "Dj Gérard Ben ",
+        "photoArtiste" :"assets/image artistes/image7.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Dj Gérard Ben - Africa Dances [ Clip Officiel ] (128 kbps).mp3",
+       "album": {
+            "idAlbum" :22,
+            "nomAlbum" : "Le défi",
+            "imageAlbum" :"assets/image du benskin/image7.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 23,
+        "titre" : "La mignocité",
+        "idCategorie" : 2,
+        "nomArtiste" : "Guy Watson",
+        "photoArtiste" :"assets/image artistes/image8.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"mignoncite.mp3",
+       "album": {
+            "idAlbum" :23,
+            "nomAlbum" : "Jump Love",
+            "imageAlbum" :"assets/image du benskin/image8.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 24,
+        "titre" : "Essola",
+        "idCategorie" : 2,
+        "nomArtiste" : "kouchouam Mbada ",
+        "photoArtiste" :"assets/image artistes/image9.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"essola.mp3",
+       "album": {
+            "idAlbum" :24,
+            "nomAlbum" : "Swega Menzui",
+            "imageAlbum" :"assets/image du benskin/image9.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 25,
+        "titre" : "Lions Indomptables",
+        "idCategorie" : 2,
+        "nomArtiste" : "kouchouam Mbada ",
+        "photoArtiste" :"assets/image artistes/image10.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"lions.mp3",
+       "album": {
+            "idAlbum" :25,
+            "nomAlbum" : "Swega Menzui",
+            "imageAlbum" :"assets/image du benskin/image9.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 26,
+        "titre" : "la main dans la main",
+        "idCategorie" : 2,
+        "nomArtiste" : "Les remers starts ",
+        "photoArtiste" :"assets/image artistes/image10.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"mainmain.mp3",
+       "album": {
+            "idAlbum" :26,
+            "nomAlbum" : "Remers",
+            "imageAlbum" :"assets/image du benskin/image10.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 27,
+        "titre" : "BENSKIN-Choutoualé",
+        "idCategorie" : 2,
+        "nomArtiste" : "Manou",
+        "photoArtiste" :"assets/image artistes/image11.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - MANOU BENSKIN-Choutoualé (128 kbps).mp3",
+       "album": {
+            "idAlbum" :27,
+            "nomAlbum" : "Remers",
+            "imageAlbum" :"assets/image du benskin/image11.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 28,
+        "titre" : "Histoire d'amour",
+        "idCategorie" : 2,
+        "nomArtiste" : "Marole TCHAMBA",
+        "photoArtiste" :"assets/image artistes/image12.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"histoire.mp3",
+       "album": {
+            "idAlbum" :28,
+            "nomAlbum" : "Je suis là",
+            "imageAlbum" :"assets/image du benskin/image12.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 29,
+        "titre" : " Ntamba Bet",
+        "idCategorie" : 2,
+        "nomArtiste" : "Queen Dayenu",
+        "photoArtiste" :"assets/image artistes/image12.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Queen Dayenu - Ntamba Bet (128 kbps).mp3",
+       "album": {
+            "idAlbum" :29,
+            "nomAlbum" : "A king of girls",
+            "imageAlbum" :"assets/image du benskin/image12.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 30,
+        "titre" : "Tu dis que quoi  ",
+        "idCategorie" : 2,
+        "nomArtiste" : "Meiway",
+        "photoArtiste" :"assets/image artistes/image7.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"tudisquequoi.mp3",
+       "album": {
+            "idAlbum" :30,
+            "nomAlbum" : "ngokouk",
+            "imageAlbum" :"assets/image du benskin/image7.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 31,
+        "titre" : "Assurance tout risque  ",
+        "idCategorie" : 2,
+        "nomArtiste" : "Queens love la tigresse",
+        "photoArtiste" :"assets/image artistes/image14.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Meiway - Tu dis que quoi (clip officiel) (128 kbps).mp3",
+       "album": {
+            "idAlbum" :31,
+            "nomAlbum" : "Tigress queen",
+            "imageAlbum" :"assets/image du benskin/image14.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 32,
+        "titre" : "longue longue",
+        "idCategorie" : 3,
+        "nomArtiste" : "Ayo Africa",
+        "photoArtiste" :"assets/images artistes makossa/image1.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"longue.mp3",
+       "album": {
+            "idAlbum" :32,
+            "nomAlbum" : "A bas Juda",
+            "imageAlbum" :"assets/image makossa/image1.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 33,
+        "titre" : "Aimez Aimez",
+        "idCategorie" : 3,
+        "nomArtiste" : "Bebey Black",
+        "photoArtiste" :"assets/images artistes makossa/image2.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"aimez.mp3",
+       "album": {
+            "idAlbum" :33,
+            "nomAlbum" : "Death wish",
+            "imageAlbum" :"assets/image makossa/image2.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 34,
+        "titre" : "Nen Lambo",
+        "idCategorie" : 3,
+        "nomArtiste" : "Bill Locko",
+        "photoArtiste" :"assets/images artistes makossa/image3.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"yt5s.io - Bill Loko - Nen lambo (1980) Cameroun (128 kbps).mp3",
+       "album": {
+            "idAlbum" :34,
+            "nomAlbum" : "Africa Wake Up",
+            "imageAlbum" :"assets/image makossa/image3.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 35,
+        "titre" : "Adou",
+        "idCategorie" : 3,
+        "nomArtiste" : "Charlotte Mbango ",
+        "photoArtiste" :"assets/images artistes makossa/image4.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"adou.mp3",
+       "album": {
+            "idAlbum" :35,
+            "nomAlbum" : "Best of Makossa",
+            "imageAlbum" :"assets/image makossa/image4.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 36,
+        "titre" : "Maloko",
+        "idCategorie" : 3,
+        "nomArtiste" : "Charlotte Mbango ",
+        "photoArtiste" :"assets/images artistes makossa/image5.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"maloko.mp3",
+       "album": {
+            "idAlbum" :36,
+            "nomAlbum" : "Konkai Makossa",
+            "imageAlbum" :"assets/image makossa/image5.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 37,
+        "titre" : "Dikom lam la moto",
+        "idCategorie" : 3,
+        "nomArtiste" : "Emile Kangue ",
+        "photoArtiste" :"assets/images artistes makossa/image6.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"dikolammoto.mp3",
+       "album": {
+            "idAlbum" :37,
+            "nomAlbum" : "The best of the best",
+            "imageAlbum" :"assets/image makossa/image6.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 38,
+        "titre" : "Motamatakate",
+        "idCategorie" : 3,
+        "nomArtiste" : "Emile Kangue ",
+        "photoArtiste" :"assets/images artistes makossa/image7.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"yt5s.io - Emile Kangue - Motamatakate (128 kbps).mp3",
+       "album": {
+            "idAlbum" :38,
+            "nomAlbum" : "We nde championne",
+            "imageAlbum" :"assets/image makossa/image7.jpeg"
+        }
+       
+   },
+   
+    {
+        
+        "idChanson" : 39,
+        "titre" : "Bwanga Bwam",
+        "idCategorie" : 3,
+        "nomArtiste" : "Grace Decca ",
+        "photoArtiste" :"assets/images artistes makossa/image8.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"bwangabwam.mp3",
+       "album": {
+            "idAlbum" :39,
+            "nomAlbum" : "Besoin d'amour",
+            "imageAlbum" :"assets/image makossa/image8.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 40,
+        "titre" : "Nyounga Bekwadi",
+        "idCategorie" : 3,
+        "nomArtiste" : "Grace Decca ",
+        "photoArtiste" :"assets/images artistes makossa/image9.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"yt5s.io - Grace Decca - Nyounga Bekwadi(Rumeurs) 1989 Cameroun (128 kbps).mp3",
+       "album": {
+            "idAlbum" :40,
+            "nomAlbum" : "Appelle moi princesse",
+            "imageAlbum" :"assets/image makossa/image9.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 41,
+        "titre" : "La vie",
+        "idCategorie" : 3,
+        "nomArtiste" : "Henry Njoh &Ndedi Dibango",
+        "photoArtiste" :"assets/images artistes makossa/image10.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"lifeofgod.mp3",
+       "album": {
+            "idAlbum" :41,
+            "nomAlbum" : "Best of dibango",
+            "imageAlbum" :"assets/image makossa/image10.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 42,
+        "titre" : "La vie",
+        "idCategorie" : 3,
+        "nomArtiste" : "Liza T",
+        "photoArtiste" :"assets/images artistes makossa/image11.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"lizat.mp3",
+       "album": {
+            "idAlbum" :42,
+            "nomAlbum" : "Makossa  bio",
+            "imageAlbum" :"assets/image makossa/image11.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 43,
+        "titre" : "viji",
+        "idCategorie" : 3,
+        "nomArtiste" : "Prince Ndedi ",
+        "photoArtiste" :"assets/images artistes makossa/image12.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"viji.mp3",
+       "album": {
+            "idAlbum" :43,
+            "nomAlbum" : "Botiko dance",
+            "imageAlbum" :"assets/image makossa/image12.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 44,
+        "titre" : "Amour et folie",
+        "idCategorie" : 3,
+        "nomArtiste" : "sergeo polo  ",
+        "photoArtiste" :"assets/images artistes makossa/image13.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"amourfolie.mp3",
+       "album": {
+            "idAlbum" :44,
+            "nomAlbum" : "Amour à deux ,amour à vie",
+            "imageAlbum" :"assets/image makossa/image13.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 45,
+        "titre" : "Soul",
+        "idCategorie" : 3,
+        "nomArtiste" : "Manu Dibango",
+        "photoArtiste" :"assets/images artistes makossa/image14.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"Manu dibango.mp3",
+       "album": {
+            "idAlbum" :45,
+            "nomAlbum" : "Gone clear",
+            "imageAlbum" :"assets/image makossa/image14.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 46,
+        "titre" : "Bikutsi non stop",
+        "idCategorie" : 4,
+        "nomArtiste" : "Atebass",
+        "photoArtiste" :"assets/image du bikutsi/image1.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"atebass.mp3",
+       "album": {
+            "idAlbum" :46,
+            "nomAlbum" : "Nkobo",
+            "imageAlbum" :"assets/images album bikutsi/image1.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 47,
+        "titre" : "Crayon de Dieu",
+        "idCategorie" : 4,
+        "nomArtiste" : "Coco Argentée",
+        "photoArtiste" :"assets/image du bikutsi/image2.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"crayondedieu.mp3",
+       "album": {
+            "idAlbum" :47,
+            "nomAlbum" : "Crayon de Dieu",
+            "imageAlbum" :"assets/images album bikutsi/image2.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 48,
+        "titre" : " 4 vérités",
+        "idCategorie" : 4,
+        "nomArtiste" : "Coco Argentée, Mani Bella, Majoie Ayi",
+        "photoArtiste" :"assets/image du bikutsi/image4.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"fourtruth.mp3",
+       "album": {
+            "idAlbum" :48,
+            "nomAlbum" : "Nostalgie",
+            "imageAlbum" :"assets/images album bikutsi/image4.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 49,
+        "titre" : "Coco carbure",
+        "idCategorie" : 4,
+        "nomArtiste" : "Coco Argentée",
+        "photoArtiste" :"assets/image du bikutsi/image3.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"cococarbure.mp3",
+       "album": {
+            "idAlbum" :49,
+            "nomAlbum" : "Crayon de Dieu",
+            "imageAlbum" :"assets/images album bikutsi/image2.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 50,
+        "titre" : "Naya Naya",
+        "idCategorie" : 4,
+        "nomArtiste" : "Govina",
+        "photoArtiste" :"assets/image du bikutsi/image5.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - GOVINAL - Naya Naya (OLD BIKUTSI By DJBOCANDE LE CAMER) (128 kbps).mp3",
+       "album": {
+            "idAlbum" :50,
+            "nomAlbum" : "Le prince du bikutsi",
+            "imageAlbum" :"assets/images album bikutsi/image5.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 51,
+        "titre" : "Les Histoires de Sangmelima",
+        "idCategorie" : 4,
+        "nomArtiste" : "Josco L'inquiéteur",
+        "photoArtiste" :"assets/image du bikutsi/image6.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Josco L'inquiéteur - Les Histoires de Sangmelima (Official Music video) (128 kbps).mp3",
+       "album": {
+            "idAlbum" :51,
+            "nomAlbum" : "Nyegle na",
+            "imageAlbum" :"assets/images album bikutsi/image6.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 52,
+        "titre" : "Today Na Today",
+        "idCategorie" : 4,
+        "nomArtiste" : "K-Tino feat Magasco",
+        "photoArtiste" :"assets/image du bikutsi/image8.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"magasco.mp3",
+       "album": {
+            "idAlbum" :52,
+            "nomAlbum" : "Today Na Today",
+            "imageAlbum" :"assets/images album bikutsi/image8.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 53,
+        "titre" : "Je ne sens pas",
+        "idCategorie" : 4,
+        "nomArtiste" : "Majoie Ayi",
+        "photoArtiste" :"assets/image du bikutsi/image9.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"jenesenspas.mp3",
+       "album": {
+            "idAlbum" :53,
+            "nomAlbum" : "Origines",
+            "imageAlbum" :"assets/images album bikutsi/image9.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 54,
+        "titre" : "Déranger",
+        "idCategorie" : 4,
+        "nomArtiste" : "Mani Bella feat Tenor",
+        "photoArtiste" :"assets/image du bikutsi/image10.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"deranger.mp3",
+       "album": {
+            "idAlbum" :54,
+            "nomAlbum" : "Origines",
+            "imageAlbum" :"assets/images album bikutsi/image10.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 55,
+        "titre" : " Essamba",
+        "idCategorie" : 4,
+        "nomArtiste" : "Mbarga Soukous",
+        "photoArtiste" :"assets/image du bikutsi/image11.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"essambo.mp3",
+       "album": {
+            "idAlbum" :55,
+            "nomAlbum" : "Sweet Mother",
+            "imageAlbum" :"assets/images album bikutsi/image11.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 56,
+        "titre" : " Ossas",
+        "idCategorie" : 4,
+        "nomArtiste" : "sala Bekono",
+        "photoArtiste" :"assets/image du bikutsi/image13.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Mbarga Soukous -  Essamba (128 kbps).mp3",
+       "album": {
+            "idAlbum" :56,
+            "nomAlbum" : "MaxOssas",
+            "imageAlbum" :"assets/images album bikutsi/image13.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 57,
+        "titre" : "Kaba Ngondo",
+        "idCategorie" : 4,
+        "nomArtiste" : "Tenor",
+        "photoArtiste" :"assets/image du bikutsi/image12.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"kabangondo.mp3",
+       "album": {
+            "idAlbum" :57,
+            "nomAlbum" : "Terre mère",
+            "imageAlbum" :"assets/images album bikutsi/image12.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 58,
+        "titre" : "Kulu la tortue",
+        "idCategorie" : 4,
+        "nomArtiste" : "Vétérans de la capitale",
+        "photoArtiste" :"assets/image du bikutsi/image1.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"veterancapitale.mp3",
+       "album": {
+            "idAlbum" :58,
+            "nomAlbum" : "Me ne Ngon",
+            "imageAlbum" :"assets/images album bikutsi/image1.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 59,
+        "titre" : "Nnom Wom ",
+        "idCategorie" : 4,
+        "nomArtiste" : "Zele Le Bombardier",
+        "photoArtiste" :"assets/image du bikutsi/image14.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"bombardier.mp3",
+       "album": {
+            "idAlbum" :59,
+            "nomAlbum" : "Si j'avais su",
+            "imageAlbum" :"assets/images album bikutsi/image14.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 60,
+        "titre" : "Tu dis que quoi  ",
+        "idCategorie" : 4,
+        "nomArtiste" : "Meiway",
+        "photoArtiste" :"assets/image du bikutsi/image15.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Meiway - Tu dis que quoi (clip officiel) (128 kbps).mp3",
+       "album": {
+            "idAlbum" :60,
+            "nomAlbum" : "Illimitic",
+            "imageAlbum" :"assets/images album bikutsi/image15.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 61,
+        "titre" : "S'il te plait",
+        "idCategorie" : 4,
+        "nomArtiste" : "Lady ponce & Richard Amougou",
+        "photoArtiste" :"assets/image du bikutsi/ladieponce.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Meiway - Tu dis que quoi (clip officiel) (128 kbps).mp3",
+       "album": {
+            "idAlbum" :61,
+            "nomAlbum" : "Confessions",
+            "imageAlbum" :"assets/images album bikutsi/ladieponce.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 62,
+        "titre" : "Break up with your Girlfriend, i am bored",
+        "idCategorie" : 5,
+        "nomArtiste" : "Ariana Grande",
+        "photoArtiste" :"assets/images afro urban/image1.jpeg",
+        "score" :10,
+        "est_favorie" :true,
+        "nomFichier" :"breakupwithyourgirl.mp3",
+       "album": {
+            "idAlbum" :62,
+            "nomAlbum" : "thank U,Next 2019",
+            "imageAlbum" :"assets/images albums afro urban/image1.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 63,
+        "titre" : "Lonely At The Top",
+        "idCategorie" : 5,
+        "nomArtiste" : "Ariana Grande",
+        "photoArtiste" :"assets/images afro urban/image2.jpeg",
+        "score" :10,
+        "est_favorie" :false,
+        "nomFichier" :"asake.mp3",
+       "album": {
+            "idAlbum" :63,
+            "nomAlbum" : "work of art",
+            "imageAlbum" :"assets/images albums afro urban/image2.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 64,
+        "titre" : "The Way I Are",
+        "idCategorie" : 5,
+        "nomArtiste" : "Bebe Rexha feat. Lil Wayne ",
+        "photoArtiste" :"assets/images afro urban/image3.jpeg",
+        "score" :10,
+        "est_favorie" :false,
+        "nomFichier" :"thewayIare",
+       "album": {
+            "idAlbum" :64,
+            "nomAlbum" : "Shock Value",
+            "imageAlbum" :"assets/images albums afro urban/image3.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 65,
+        "titre" : "Me and You ",
+        "idCategorie" : 5,
+        "nomArtiste" : "cassie  ",
+        "photoArtiste" :"assets/images afro urban/image5.jpeg",
+        "score" :10,
+        "est_favorie" :false,
+        "nomFichier" :"cassie.mp3",
+       "album": {
+            "idAlbum" :65,
+            "nomAlbum" : "Big scary",
+            "imageAlbum" :"assets/images albums afro urban/image5.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 66,
+        "titre" : "Trip",
+        "idCategorie" : 5,
+        "nomArtiste" : "Ella MAi ",
+        "photoArtiste" :"assets/images afro urban/image6.jpeg",
+        "score" :10,
+        "est_favorie" :false,
+        "nomFichier" :"ellmai.mp3",
+       "album": {
+            "idAlbum" :66,
+            "nomAlbum" : "éponyme",
+            "imageAlbum" :"assets/images albums afro urban/image6.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 67,
+        "titre" : "City Boy",
+        "idCategorie" : 5,
+        "nomArtiste" : "Burna Boy",
+        "photoArtiste" :"assets/images afro urban/image4.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"cityboys.mp3",
+       "album": {
+            "idAlbum" :67,
+            "nomAlbum" : "Redemption",
+            "imageAlbum" :"assets/images albums afro urban/image4.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 68,
+        "titre" : "Don't Say You Love Me",
+        "idCategorie" : 5,
+        "nomArtiste" : "Fifth Harmony ",
+        "photoArtiste" :"assets/images afro urban/image7.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"X2Download.app - Fifth Harmony - Don't Say You Love Me (128 kbps).mp3",
+       "album": {
+            "idAlbum" :68,
+            "nomAlbum" : "Fifth Harmony",
+            "imageAlbum" :"assets/images albums afro urban/image7.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 69,
+        "titre" : "Most Girls",
+        "idCategorie" : 5,
+        "nomArtiste" : "Hailee Steinfeld",
+        "photoArtiste" :"assets/images afro urban/image8.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"mostgirls.mp3",
+       "album": {
+            "idAlbum" :69,
+            "nomAlbum" : "Mädelsabend",
+            "imageAlbum" :"assets/images albums afro urban/image8.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 70,
+        "titre" : "U Don't Know",
+        "idCategorie" : 5,
+        "nomArtiste" : "Justine Skye",
+        "photoArtiste" :"assets/images afro urban/image9.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"justinesky.mp3",
+       "album": {
+            "idAlbum" :70,
+            "nomAlbum" : "Ultraviolet",
+            "imageAlbum" :"assets/images albums afro urban/image9.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 71,
+        "titre" : "Love Lies",
+        "idCategorie" : 5,
+        "nomArtiste" : "Khalid & Normani",
+        "photoArtiste" :"assets/images afro urban/image10.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"lovelies.mp3",
+       "album": {
+            "idAlbum" :71,
+            "nomAlbum" : "ULove,Simon ",
+            "imageAlbum" :"assets/images albums afro urban/image10.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 72,
+        "titre" : "Motivation",
+        "idCategorie" : 5,
+        "nomArtiste" : "Normani",
+        "photoArtiste" :"assets/images afro urban/image11.jpeg",
+        "score" :3,
+        "est_favorie" :false,
+        "nomFichier" :"motivation",
+       "album": {
+            "idAlbum" :72,
+            "nomAlbum" : "BRAVO Hits, Vol. 107",
+            "imageAlbum" :"assets/images albums afro urban/image11.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 73,
+        "titre" : "Motivation",
+        "idCategorie" : 5,
+        "nomArtiste" : "Selena Gomez",
+        "photoArtiste" :"assets/images afro urban/image12.jpeg",
+        "score" :10,
+        "est_favorie" :true,
+        "nomFichier" :"selena.mp3",
+       "album": {
+            "idAlbum" :73,
+            "nomAlbum" : "BRAVO Hits, Vol. 107",
+            "imageAlbum" :"assets/images albums afro urban/image12.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 74,
+        "titre" : "Water",
+        "idCategorie" : 5,
+        "nomArtiste" : "Tyla",
+        "photoArtiste" :"assets/images afro urban/image15.jpeg",
+        "score" :10,
+        "est_favorie" :true,
+        "nomFichier" :"X2Download.app - Tyla - Water (Official Music Video) (128 kbps).mp3",
+       "album": {
+            "idAlbum" :74,
+            "nomAlbum" : "Water",
+            "imageAlbum" :"assets/images albums afro urban/image15.jpeg"
+        }
+       
+   },
+    {
+        
+        "idChanson" : 75,
+        "titre" : "Favorite Song",
+        "idCategorie" : 5,
+        "nomArtiste" : "Toosii",
+        "photoArtiste" :"assets/images afro urban/image14.jpeg",
+        "score" :10,
+        "est_favorie" :true,
+        "nomFichier" :"favoritesong.mp3",
+       "album": {
+            "idAlbum" :75,
+            "nomAlbum" : "Naujour",
+            "imageAlbum" :"assets/images albums afro urban/image14.jpeg"
+        }
+       
+   }
+
+]

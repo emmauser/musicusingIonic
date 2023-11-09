@@ -1,0 +1,32 @@
+[
+    {
+        "idCategorie" : 1,
+        "nomCategorie": "R&B",
+        "image" :"assets/images/Imagedescategories/Rnb.jpeg"
+    },
+    {
+        "idCategorie" : 2,
+        "nomCategorie": "Bikusti",
+        "image" :"assets/images/Imagedescategories/Bikusti.jpeg"
+
+    },
+    {
+        "idCategorie" : 3,
+        "nomCategorie": "Benskin",
+        "image" :"assets/images/Imagedescategories/benskin.jpeg"
+
+    },
+    {
+        "idCategorie" : 4,
+        "nomCategorie": "Makossa",
+        "image" :"assets/images/Imagedescategories/makossa.jpeg"
+
+    },
+    {
+        "idCategorie" : 5,
+        "nomCategorie": "Afro Urban",
+        "image" :"assets/images/Imagedescategories/afrourban.jpeg"
+
+
+    }
+]

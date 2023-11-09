@@ -1,0 +1,7 @@
+{
+  "name": "Star ING4 Zik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

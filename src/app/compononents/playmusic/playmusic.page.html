@@ -1,0 +1,65 @@
+<ion-header [translucent]="true" mode="ios">
+  <ion-toolbar>
+    <ion-buttons slot="start" (click)="unload()">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>Lecteur</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <div class="section">
+
+    <div class="music-card__wrapper">
+      <ion-card> <img class="music-image" src="{{music1.album.imageAlbum}}" alt="">
+      </ion-card>
+      <div class="separation"></div>
+
+      <div class="music-info">
+        <h3 class="music-artist">{{music1.nomArtiste}}</h3>
+
+        <h1 class="music-name">{{music1.titre}}</h1>
+      </div>
+      <div class="vol-controls">
+        <div slot="start" id="voldown" class="music-controls-s" (click)="voldown()">
+          <ion-icon name="volume-low" class="music-controls-s--icon"></ion-icon>
+        </div>
+        <div slot="end" id="volup" class="music-controls-s" (click)="volup()">
+          <ion-icon name="volume-high" class="music-controls-s--icon"></ion-icon>
+        </div>
+      </div>
+      <div class="separation"></div>
+      <div class="music-progress">
+        <ion-range  min="0" max="100"  mode="ios" color="warning"></ion-range>
+        <div class="musics-progress__time">
+        </div>
+      </div>
+      <div class="separation"></div>
+
+      <div class="music-controls">
+        <div id="prev" class="music-controls-s" >
+          <ion-icon name="play-skip-back" class="music-controls-s--icon"></ion-icon>
+        </div>
+        <div id="play" class="music-controls-s" (click)="play()">
+          <ion-icon name="play-circle-outline" class="music-controls-s--icon play-icon"></ion-icon>
+          <div class="play-icon-background"></div>
+        </div>
+        <!-- <div id="pause" class="music-controls-s" >
+          <ion-icon name="pause-circle-outline" class="music-controls-s--icon play-icon"></ion-icon>
+          <div class="play-icon-background"></div>
+        </div> -->
+        <div id="stop" class="music-controls-s" (click)="stop()">
+          <ion-icon name="stop-circle-outline" class="music-controls-s--icon play-icon"></ion-icon>
+          <div class="play-icon-background"></div>
+        </div>
+        <div id="next" class="music-controls-s" >
+          <ion-icon name="play-skip-forward" class="music-controls-s--icon"></ion-icon>
+        </div>
+        <!-- <div class="music-controls-s" fill="clear" class="darkColor" color="light" (click)="loop()">
+          <ion-icon name="repeat" size="large" color="danger"></ion-icon>
+        </div> -->
+      </div>
+    </div>
+  </div>
+</ion-content>

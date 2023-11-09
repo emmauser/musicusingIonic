@@ -1,0 +1,83 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title text-center>
+      Star ING4 Zik
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true" padding>
+    <h1>Categorie </h1>
+  
+  <ion-toolbar>
+    <div *ngIf="bool==true">
+      <div class="slider" >
+        <div class="slider-container">
+          <div class="slide" *ngFor="let item of [1,2,3,4,5,6,9,5,8,2,8]" >
+            <p><ion-skeleton-text animated style="width: 85%;height:250px" ></ion-skeleton-text></p>
+          </div>
+       
+        </div>
+      </div>
+      <h1><ion-skeleton-text animated style="width: 85%;height:250px" ></ion-skeleton-text></h1>
+      <div class="slider" >
+        <div class="slider-container">
+          <div class="slide" *ngFor="let item of [1,2,3,4,5,6,9,5,8,2,8]" >
+            <p><ion-skeleton-text animated style="width: 85%;height:250px" ></ion-skeleton-text></p>
+          </div>
+       
+        </div>
+      </div>
+      <h1><ion-skeleton-text animated style="width: 85%;height:250px" ></ion-skeleton-text></h1>
+
+      <div class="slider" >
+        <div class="slider-container">
+          <div class="slide" *ngFor="let item of [1,2,3,4,5,6,9,5,8,2,8]" >
+            <p><ion-skeleton-text animated style="width: 85%;height:250px" ></ion-skeleton-text></p>
+          </div>
+       
+        </div>
+      </div>
+    </div>
+    <div  *ngIf="!bool">
+    <div class="slider" >
+      <div class="slider-container">
+        <div class="slide" *ngFor="let item of categorie">
+          <img src="{{item.image}}" (click)="songsofCategorie(item.idCategorie)"  >
+          <!-- <div class="slide-caption">R&B</div> -->
+        </div>
+      
+      </div>
+    </div>
+  
+  </div>
+
+</ion-toolbar>
+<div id="separation"></div>
+<h1>Favoris</h1>
+<div class="slider">
+    <div class="slider-container">
+      <ng-container *ngFor="let item of Songs" >
+        <div class="slide" *ngIf="item.est_favorie==true" (click)="navigate(item)" (click)="navigation(item)">
+          <img  src="{{item.album.imageAlbum}}" >
+          <span class="ion-text-center ion-text-justify">{{item.titre}}</span><br>
+          <span class="ion-text-center ion-text-justify">{{item.nomArtiste}}</span>
+          <!-- <div class="slide-caption">R&B</div> -->
+        </div>
+      </ng-container>
+    </div>
+</div>
+    <h1>Artistes</h1>
+    <ion-grid>
+      <ion-row>
+        <ng-container *ngFor="let item of Songs" >
+        <ion-col size="4"  *ngIf="item.score>7" (click)="navigate(item)" >
+          
+            <img  src="{{item.photoArtiste}}" alt="Image" ><br>
+              <span class="ion-text-center ion-text-justify">{{item.nomArtiste}}</span>
+          
+        </ion-col>
+      </ng-container>
+      </ion-row>
+    </ion-grid>
+  </ion-content>

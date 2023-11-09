@@ -1,0 +1,54 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+      </ion-buttons>
+    <ion-title>Liste des musiques de l'album</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Liste des musiques de l'album</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <div *ngIf="bool==true">
+  <ion-list >
+    <ion-item *ngFor="let item of [1,2,3,4,5,6,9,5,8,2,8]">
+    <ion-thumbnail slot="start">
+      <ion-skeleton-text></ion-skeleton-text>
+    </ion-thumbnail>
+      <ion-label>
+       <p><ion-skeleton-text animated style="width: 50%"></ion-skeleton-text></p>
+       <p><ion-skeleton-text animated style="width: 50%"></ion-skeleton-text></p>
+       <p><ion-skeleton-text animated style="width: 50%"></ion-skeleton-text></p>
+       <p><ion-skeleton-text animated style="width: 50%"></ion-skeleton-text></p>
+      </ion-label>
+    </ion-item>
+ </ion-list>
+</div>
+<div *ngIf="!bool" >
+  <ng-container *ngFor="let item of Songs" >
+    <div class="slide" *ngIf="item.album.nomAlbum==elt.album.nomAlbum"(click)="navigate(item)" >
+      <ion-list>
+        <ion-item >
+        <ion-thumbnail slot="start" >
+          <img src="{{item.photoArtiste}}" alt="" srcset="">
+  
+        </ion-thumbnail> 
+        <ion-label>
+          <h5 > Titre :{{item.titre}}</h5>
+          <p> Artiste :{{item.nomArtiste}}</p>
+          <p>Album :{{item.album.nomAlbum}}</p>
+          <p>Score :{{item.score}}</p>
+        </ion-label>
+        <ion-icon slot="end" name="chevron-forward-outline"></ion-icon>
+
+       </ion-item>
+
+      </ion-list>
+    </div>
+  </ng-container>
+</div>
+</ion-content>
